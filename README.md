@@ -1,3 +1,5 @@
+**Check the main repo for the full development process!!!**
+
 # Online-Store
 Software Design project
 
